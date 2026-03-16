@@ -1,0 +1,9 @@
+{
+  "name": "Anuari AI",
+  "description": "A powerful AI assistant powered by Gemini, featuring a sleek and intelligent interface with advanced multimodal and search capabilities.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation",
+    "microphone"
+  ]
+}
